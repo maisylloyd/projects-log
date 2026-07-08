@@ -50,3 +50,10 @@ Automatically tracked by Claude Code whenever a new project directory is created
 | `.gitignore` | `~/susan-the-coeliac/social/carousels/cross-contamination-101/.gitignore` | 2026-07-08 10:50 |
 | `ls` | `ls` | 2026-07-08 10:50 |
 | `cross-contamination-101` | `~/susan-the-coeliac/social/carousels/cross-contamination-101` | 2026-07-08 10:50 |
+| `preview` | `/private/tmp/claude-501/-Users-maisylloyd/ca269cdb-accc-420d-a1c5-223e5a346410/scratchpad/preview` | 2026-07-08 10:56 |
+| `cd` | `cd` | 2026-07-08 10:56 |
+| `preview` | `/private/tmp/claude-501/-Users-maisylloyd/ca269cdb-accc-420d-a1c5-223e5a346410/scratchpad/preview` | 2026-07-08 10:56 |
+| `for` | `for` | 2026-07-08 10:56 |
+| `slide` | `slide` | 2026-07-08 10:56 |
+| `in` | `in` | 2026-07-08 10:56 |
+| `slide-*.png` | `~/susan-the-coeliac/social/carousels/common-celiac-myths/output/slide-*.png` | 2026-07-08 10:56 |
