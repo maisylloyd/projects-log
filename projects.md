@@ -19,3 +19,4 @@ Automatically tracked by Claude Code whenever a new project directory is created
 | `lib` | `src/lib` | 2026-07-07 12:12 |
 | `components` | `src/components` | 2026-07-07 12:12 |
 | `data` | `data` | 2026-07-07 12:12 |
+| `assets` | `~/.claude/skills/instagram-carousel/assets` | 2026-07-08 09:41 |
