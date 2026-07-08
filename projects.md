@@ -57,3 +57,13 @@ Automatically tracked by Claude Code whenever a new project directory is created
 | `slide` | `slide` | 2026-07-08 10:56 |
 | `in` | `in` | 2026-07-08 10:56 |
 | `slide-*.png` | `~/susan-the-coeliac/social/carousels/common-celiac-myths/output/slide-*.png` | 2026-07-08 10:56 |
+| `site-shot` | `/private/tmp/claude-501/-Users-maisylloyd/ca269cdb-accc-420d-a1c5-223e5a346410/scratchpad/site-shot` | 2026-07-08 11:29 |
+| `cat` | `cat` | 2026-07-08 11:29 |
+| `>` | `>` | 2026-07-08 11:29 |
+| `shot.mjs` | `/private/tmp/claude-501/-Users-maisylloyd/ca269cdb-accc-420d-a1c5-223e5a346410/scratchpad/site-shot/shot.mjs` | 2026-07-08 11:29 |
+| `<<` | `<<` | 2026-07-08 11:29 |
+| `EOF` | `EOF` | 2026-07-08 11:29 |
+| `import` | `import` | 2026-07-08 11:29 |
+| `puppeteer` | `puppeteer` | 2026-07-08 11:29 |
+| `from` | `from` | 2026-07-08 11:29 |
+| `puppeteer` | `puppeteer` | 2026-07-08 11:29 |
