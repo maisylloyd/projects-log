@@ -20,3 +20,15 @@ Automatically tracked by Claude Code whenever a new project directory is created
 | `components` | `src/components` | 2026-07-07 12:12 |
 | `data` | `data` | 2026-07-07 12:12 |
 | `assets` | `~/.claude/skills/instagram-carousel/assets` | 2026-07-08 09:41 |
+| `slides` | `/private/tmp/claude-501/-Users-maisylloyd/ca269cdb-accc-420d-a1c5-223e5a346410/scratchpad/carousel-test/slides` | 2026-07-08 09:43 |
+| `cp` | `cp` | 2026-07-08 09:43 |
+| `export.mjs` | `~/.claude/skills/instagram-carousel/assets/export.mjs` | 2026-07-08 09:43 |
+| `export.mjs` | `/private/tmp/claude-501/-Users-maisylloyd/ca269cdb-accc-420d-a1c5-223e5a346410/scratchpad/carousel-test/export.mjs` | 2026-07-08 09:43 |
+| `cp` | `cp` | 2026-07-08 09:43 |
+| `package.json` | `~/.claude/skills/instagram-carousel/assets/package.json` | 2026-07-08 09:43 |
+| `package.json` | `/private/tmp/claude-501/-Users-maisylloyd/ca269cdb-accc-420d-a1c5-223e5a346410/scratchpad/carousel-test/package.json` | 2026-07-08 09:43 |
+| `cp` | `cp` | 2026-07-08 09:43 |
+| `slide-template.html` | `~/.claude/skills/instagram-carousel/assets/slide-template.html` | 2026-07-08 09:43 |
+| `01.html` | `/private/tmp/claude-501/-Users-maisylloyd/ca269cdb-accc-420d-a1c5-223e5a346410/scratchpad/carousel-test/slides/01.html` | 2026-07-08 09:43 |
+| `ls` | `ls` | 2026-07-08 09:43 |
+| `carousel-test` | `/private/tmp/claude-501/-Users-maisylloyd/ca269cdb-accc-420d-a1c5-223e5a346410/scratchpad/carousel-test` | 2026-07-08 09:43 |
