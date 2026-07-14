@@ -128,3 +128,4 @@ Automatically tracked by Claude Code whenever a new project directory is created
 | `puppeteer` | `puppeteer` | 2026-07-10 14:23 |
 | `from` | `from` | 2026-07-10 14:23 |
 | `puppeteer` | `puppeteer` | 2026-07-10 14:23 |
+| `frames` | `/Users/maisylloyd/susan-the-coeliac/social/reels/relatable-translations/frames` | 2026-07-14 12:22 |
