@@ -172,3 +172,21 @@ Automatically tracked by Claude Code whenever a new project directory is created
 | `package.json` | `/Users/maisylloyd/susan-the-coeliac/social/carousels/Reading Labels Scrapbook/package.json` | 2026-07-15 11:54 |
 | `echo` | `echo` | 2026-07-15 11:54 |
 | `done` | `done` | 2026-07-15 11:54 |
+| `_sfx` | `/Users/maisylloyd/susan-the-coeliac/social/reels/_sfx` | 2026-07-15 14:16 |
+| `ffmpeg` | `FFMPEG=/Users/maisylloyd/susan-the-coeliac/social/reels/Relatable Translations/node_modules/ffmpeg-static/ffmpeg` | 2026-07-15 14:16 |
+| `cd` | `cd` | 2026-07-15 14:16 |
+| `_sfx` | `/Users/maisylloyd/susan-the-coeliac/social/reels/_sfx` | 2026-07-15 14:16 |
+| `#` | `#` | 2026-07-15 14:16 |
+| `pop:` | `pop:` | 2026-07-15 14:16 |
+| `soft` | `soft` | 2026-07-15 14:16 |
+| `short` | `short` | 2026-07-15 14:16 |
+| `blip` | `blip` | 2026-07-15 14:16 |
+| `for` | `for` | 2026-07-15 14:16 |
+| `card` | `card` | 2026-07-15 14:16 |
+| `reveals` | `reveals` | 2026-07-15 14:16 |
+| `$FFMPEG` | `$FFMPEG` | 2026-07-15 14:16 |
+| `lavfi` | `lavfi` | 2026-07-15 14:16 |
+| `sine=frequency=880:duration=0.09` | `sine=frequency=880:duration=0.09` | 2026-07-15 14:16 |
+| `afade=t=out:st=0.05:d=0.04,volume=0.5` | `afade=t=out:st=0.05:d=0.04,volume=0.5` | 2026-07-15 14:16 |
+| `pop.mp3` | `pop.mp3` | 2026-07-15 14:16 |
+| `2>` | `2>` | 2026-07-15 14:16 |
