@@ -190,3 +190,4 @@ Automatically tracked by Claude Code whenever a new project directory is created
 | `afade=t=out:st=0.05:d=0.04,volume=0.5` | `afade=t=out:st=0.05:d=0.04,volume=0.5` | 2026-07-15 14:16 |
 | `pop.mp3` | `pop.mp3` | 2026-07-15 14:16 |
 | `2>` | `2>` | 2026-07-15 14:16 |
+| `New Edits` | `/Users/maisylloyd/susan-the-coeliac/social/reels/New Edits` | 2026-07-15 14:56 |
