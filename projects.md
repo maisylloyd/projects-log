@@ -191,3 +191,4 @@ Automatically tracked by Claude Code whenever a new project directory is created
 | `pop.mp3` | `pop.mp3` | 2026-07-15 14:16 |
 | `2>` | `2>` | 2026-07-15 14:16 |
 | `New Edits` | `/Users/maisylloyd/susan-the-coeliac/social/reels/New Edits` | 2026-07-15 14:56 |
+| `pw` | `pw` | 2026-07-18 11:09 |
