@@ -192,3 +192,9 @@ Automatically tracked by Claude Code whenever a new project directory is created
 | `2>` | `2>` | 2026-07-15 14:16 |
 | `New Edits` | `/Users/maisylloyd/susan-the-coeliac/social/reels/New Edits` | 2026-07-15 14:56 |
 | `pw` | `pw` | 2026-07-18 11:09 |
+| `Wellbeing_Stress_Slides` | `~/Desktop/Wellbeing_Stress_Slides` | 2026-07-18 11:12 |
+| `cp` | `cp` | 2026-07-18 11:12 |
+| `slide_*.png` | `/Users/maisylloyd/Desktop/cs summer project/slide_exports/slide_*.png` | 2026-07-18 11:12 |
+| `Wellbeing_Stress_Slides` | `~/Desktop/Wellbeing_Stress_Slides/` | 2026-07-18 11:12 |
+| `ls` | `ls` | 2026-07-18 11:12 |
+| `Wellbeing_Stress_Slides` | `~/Desktop/Wellbeing_Stress_Slides/` | 2026-07-18 11:12 |
