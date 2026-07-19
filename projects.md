@@ -199,3 +199,4 @@ Automatically tracked by Claude Code whenever a new project directory is created
 | `ls` | `ls` | 2026-07-18 11:12 |
 | `Wellbeing_Stress_Slides` | `~/Desktop/Wellbeing_Stress_Slides/` | 2026-07-18 11:12 |
 | `github` | `~/.claude/skills/github` | 2026-07-19 13:27 |
+| `assets` | `~/.claude/skills/claudesave/assets` | 2026-07-19 13:32 |
