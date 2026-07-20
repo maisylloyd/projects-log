@@ -226,3 +226,4 @@ Automatically tracked by Claude Code whenever a new project directory is created
 | `campaigns` | `~/.claude/repos/claude-code/crm/app/(dashboard)/campaigns` | 2026-07-20 12:45 |
 | `leads` | `~/.claude/repos/claude-code/crm/app/api/public/leads` | 2026-07-20 12:49 |
 | `[id]` | `~/.claude/repos/claude-code/crm/app/api/apikeys/[id]` | 2026-07-20 12:49 |
+| `integrations` | `~/.claude/repos/claude-code/crm/app/(dashboard)/integrations` | 2026-07-20 12:50 |
