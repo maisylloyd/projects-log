@@ -220,3 +220,4 @@ Automatically tracked by Claude Code whenever a new project directory is created
 | `[id]` | `~/.claude/repos/claude-code/crm/app/api/appointments/[id]` | 2026-07-20 12:32 |
 | `book` | `~/.claude/repos/claude-code/crm/app/api/public/book` | 2026-07-20 12:32 |
 | `appointments` | `~/.claude/repos/claude-code/crm/app/(dashboard)/appointments` | 2026-07-20 12:33 |
+| `notes` | `~/.claude/repos/claude-code/crm/app/api/whatsapp/conversations/[id]/notes` | 2026-07-20 12:38 |
