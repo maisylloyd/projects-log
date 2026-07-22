@@ -230,3 +230,4 @@ Automatically tracked by Claude Code whenever a new project directory is created
 | `website-check` | `website-check` | 2026-07-20 14:24 |
 | `scripts` | `~/.claude/scripts` | 2026-07-22 12:47 |
 | `commands` | `~/.claude/commands` | 2026-07-22 12:47 |
+| `GCSE_RE_Slides` | `$HOME/Desktop/GCSE_RE_Slides` | 2026-07-22 12:51 |
