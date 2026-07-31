@@ -231,3 +231,15 @@ Automatically tracked by Claude Code whenever a new project directory is created
 | `scripts` | `~/.claude/scripts` | 2026-07-22 12:47 |
 | `commands` | `~/.claude/commands` | 2026-07-22 12:47 |
 | `GCSE_RE_Slides` | `$HOME/Desktop/GCSE_RE_Slides` | 2026-07-22 12:51 |
+| `SuffieldCookingSystem` | `/Users/maisylloyd/SuffieldCookingSystem` | 2026-07-31 15:01 |
+| `cp` | `cp` | 2026-07-31 15:01 |
+| `CookingSystem.lua` | `/private/tmp/claude-501/-Users-maisylloyd/4d376d67-148c-4ede-a3d1-b5c0cc8e383e/scratchpad/CookingSystem.lua` | 2026-07-31 15:01 |
+| `CookingSystem.lua` | `/Users/maisylloyd/SuffieldCookingSystem/CookingSystem.lua` | 2026-07-31 15:01 |
+| `cp` | `cp` | 2026-07-31 15:01 |
+| `CookingClient.lua` | `/private/tmp/claude-501/-Users-maisylloyd/4d376d67-148c-4ede-a3d1-b5c0cc8e383e/scratchpad/CookingClient.lua` | 2026-07-31 15:01 |
+| `CookingClient.lua` | `/Users/maisylloyd/SuffieldCookingSystem/CookingClient.lua` | 2026-07-31 15:01 |
+| `cp` | `cp` | 2026-07-31 15:01 |
+| `CookingIngredientProps.lua` | `/private/tmp/claude-501/-Users-maisylloyd/4d376d67-148c-4ede-a3d1-b5c0cc8e383e/scratchpad/CookingIngredientProps.lua` | 2026-07-31 15:01 |
+| `CookingIngredientProps.lua` | `/Users/maisylloyd/SuffieldCookingSystem/CookingIngredientProps.lua` | 2026-07-31 15:01 |
+| `ls` | `ls` | 2026-07-31 15:01 |
+| `SuffieldCookingSystem` | `/Users/maisylloyd/SuffieldCookingSystem/` | 2026-07-31 15:01 |
