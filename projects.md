@@ -246,3 +246,4 @@ Automatically tracked by Claude Code whenever a new project directory is created
 | `scratchpad` | `/private/tmp/claude-501/-Users-maisylloyd/1e4f69b5-9140-47b5-89e0-ae218367d9b4/scratchpad` | 2026-07-31 20:59 |
 | `crops` | `$CLAUDE_JOB_DIR/tmp/crops` | 2026-08-03 10:44 |
 | `shop` | `public/images/shop` | 2026-08-03 10:46 |
+| `tmp` | `/Users/maisylloyd/.claude/jobs/7154a9cb/tmp` | 2026-08-03 11:22 |
