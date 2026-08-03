@@ -245,3 +245,4 @@ Automatically tracked by Claude Code whenever a new project directory is created
 | `SuffieldCookingSystem` | `/Users/maisylloyd/SuffieldCookingSystem/` | 2026-07-31 15:01 |
 | `scratchpad` | `/private/tmp/claude-501/-Users-maisylloyd/1e4f69b5-9140-47b5-89e0-ae218367d9b4/scratchpad` | 2026-07-31 20:59 |
 | `crops` | `$CLAUDE_JOB_DIR/tmp/crops` | 2026-08-03 10:44 |
+| `shop` | `public/images/shop` | 2026-08-03 10:46 |
