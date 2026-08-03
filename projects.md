@@ -247,3 +247,4 @@ Automatically tracked by Claude Code whenever a new project directory is created
 | `crops` | `$CLAUDE_JOB_DIR/tmp/crops` | 2026-08-03 10:44 |
 | `shop` | `public/images/shop` | 2026-08-03 10:46 |
 | `tmp` | `/Users/maisylloyd/.claude/jobs/7154a9cb/tmp` | 2026-08-03 11:22 |
+| `img_compare` | `/Users/maisylloyd/.claude/jobs/7154a9cb/tmp/img_compare` | 2026-08-03 12:05 |
