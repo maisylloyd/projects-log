@@ -248,3 +248,18 @@ Automatically tracked by Claude Code whenever a new project directory is created
 | `shop` | `public/images/shop` | 2026-08-03 10:46 |
 | `tmp` | `/Users/maisylloyd/.claude/jobs/7154a9cb/tmp` | 2026-08-03 11:22 |
 | `img_compare` | `/Users/maisylloyd/.claude/jobs/7154a9cb/tmp/img_compare` | 2026-08-03 12:05 |
+| `shop-crops` | `/private/tmp/claude-501/-Users-maisylloyd/bacd96d9-54d8-481c-bb77-4c58c78eba05/scratchpad/shop-crops` | 2026-08-04 11:29 |
+| `python3` | `python3` | 2026-08-04 11:29 |
+| `from PIL import Image` | `from PIL import Image` | 2026-08-04 11:29 |
+| `files = {` | `files = {` | 2026-08-04 11:29 |
+| `Screenshot 2026-08-04 at 11.28.46.png',` | `    'pink': '/var/folders/br/x0hh2n5d0z93g9p889pq2tdc0000gn/T/TemporaryItems/NSIRD_screencaptureui_tyisFQ/Screenshot 2026-08-04 at 11.28.46.png',` | 2026-08-04 11:29 |
+| `Screenshot 2026-08-04 at 11.28.56.png',` | `    'heather-grey': '/var/folders/br/x0hh2n5d0z93g9p889pq2tdc0000gn/T/TemporaryItems/NSIRD_screencaptureui_dsF3TY/Screenshot 2026-08-04 at 11.28.56.png',` | 2026-08-04 11:29 |
+| `Screenshot 2026-08-04 at 11.29.12.png',` | `    'sand': '/var/folders/br/x0hh2n5d0z93g9p889pq2tdc0000gn/T/TemporaryItems/NSIRD_screencaptureui_yywv6e/Screenshot 2026-08-04 at 11.29.12.png',` | 2026-08-04 11:29 |
+| `}` | `}` | 2026-08-04 11:29 |
+| `box = (392, 268, 1659, 1534)` | `box = (392, 268, 1659, 1534)` | 2026-08-04 11:29 |
+| `for name, path in files.items():` | `for name, path in files.items():` | 2026-08-04 11:29 |
+| `    img = Image.open(path)` | `    img = Image.open(path)` | 2026-08-04 11:29 |
+| `    crop = img.crop(box)` | `    crop = img.crop(box)` | 2026-08-04 11:29 |
+| `tee-{name}.png'` | `    out = f'/private/tmp/claude-501/-Users-maisylloyd/bacd96d9-54d8-481c-bb77-4c58c78eba05/scratchpad/shop-crops/tee-{name}.png'` | 2026-08-04 11:29 |
+| `    crop.save(out)` | `    crop.save(out)` | 2026-08-04 11:29 |
+| `    print(out, crop.size)` | `    print(out, crop.size)` | 2026-08-04 11:29 |
