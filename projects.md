@@ -265,3 +265,4 @@ Automatically tracked by Claude Code whenever a new project directory is created
 | `    print(out, crop.size)` | `    print(out, crop.size)` | 2026-08-04 11:29 |
 | `SuffieldCanteenSystem` | `/Users/maisylloyd/SuffieldCanteenSystem` | 2026-08-07 15:09 |
 | `ripplefusion-pages` | `~/Documents/ripplefusion-pages` | 2026-08-27 11:15 |
+| `scratchpad` | `/private/tmp/claude-501/-Users-maisylloyd/19f85f51-da44-4676-a52a-5030017b99ec/scratchpad` | 2026-08-27 11:41 |
