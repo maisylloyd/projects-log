@@ -264,3 +264,4 @@ Automatically tracked by Claude Code whenever a new project directory is created
 | `    crop.save(out)` | `    crop.save(out)` | 2026-08-04 11:29 |
 | `    print(out, crop.size)` | `    print(out, crop.size)` | 2026-08-04 11:29 |
 | `SuffieldCanteenSystem` | `/Users/maisylloyd/SuffieldCanteenSystem` | 2026-08-07 15:09 |
+| `ripplefusion-pages` | `~/Documents/ripplefusion-pages` | 2026-08-27 11:15 |
