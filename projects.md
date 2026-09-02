@@ -282,3 +282,4 @@ Automatically tracked by Claude Code whenever a new project directory is created
 | `pixelHeight` | `pixelHeight` | 2026-09-01 11:37 |
 | `raw1.png` | `/tmp/figma_assets/raw1.png` | 2026-09-01 11:37 |
 | `raw2.png` | `/tmp/figma_assets/raw2.png` | 2026-09-01 11:37 |
+| `logos` | `~/Documents/ripplefusion-pages/images/logos` | 2026-09-02 14:23 |
