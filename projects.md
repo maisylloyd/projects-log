@@ -283,3 +283,16 @@ Automatically tracked by Claude Code whenever a new project directory is created
 | `raw1.png` | `/tmp/figma_assets/raw1.png` | 2026-09-01 11:37 |
 | `raw2.png` | `/tmp/figma_assets/raw2.png` | 2026-09-01 11:37 |
 | `logos` | `~/Documents/ripplefusion-pages/images/logos` | 2026-09-02 14:23 |
+| `videos` | `~/Documents/ripplefusion-pages/videos` | 2026-09-13 16:23 |
+| `cp` | `cp` | 2026-09-13 16:23 |
+| `hf_20260913_150718_c348a9a6-e9e7-4d33-acae-3ddc81574459.mp4` | `/Users/maisylloyd/Downloads/hf_20260913_150718_c348a9a6-e9e7-4d33-acae-3ddc81574459.mp4` | 2026-09-13 16:23 |
+| `nina.mp4` | `~/Documents/ripplefusion-pages/videos/nina.mp4` | 2026-09-13 16:23 |
+| `ls` | `ls` | 2026-09-13 16:23 |
+| `videos` | `~/Documents/ripplefusion-pages/videos/` | 2026-09-13 16:23 |
+| `ffprobe` | `ffprobe` | 2026-09-13 16:23 |
+| `error` | `error` | 2026-09-13 16:23 |
+| `v:0` | `v:0` | 2026-09-13 16:23 |
+| `stream=width,height,duration,codec_name` | `stream=width,height,duration,codec_name` | 2026-09-13 16:23 |
+| `default=noprint_wrappers=1` | `default=noprint_wrappers=1` | 2026-09-13 16:23 |
+| `nina.mp4` | `~/Documents/ripplefusion-pages/videos/nina.mp4` | 2026-09-13 16:23 |
+| `2>` | `2>` | 2026-09-13 16:23 |
