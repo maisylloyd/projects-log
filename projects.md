@@ -296,3 +296,4 @@ Automatically tracked by Claude Code whenever a new project directory is created
 | `default=noprint_wrappers=1` | `default=noprint_wrappers=1` | 2026-09-13 16:23 |
 | `nina.mp4` | `~/Documents/ripplefusion-pages/videos/nina.mp4` | 2026-09-13 16:23 |
 | `2>` | `2>` | 2026-09-13 16:23 |
+| `heropatch` | `/tmp/heropatch` | 2026-09-26 14:09 |
