@@ -297,3 +297,4 @@ Automatically tracked by Claude Code whenever a new project directory is created
 | `nina.mp4` | `~/Documents/ripplefusion-pages/videos/nina.mp4` | 2026-09-13 16:23 |
 | `2>` | `2>` | 2026-09-13 16:23 |
 | `heropatch` | `/tmp/heropatch` | 2026-09-26 14:09 |
+| `maths_tracker` | `/private/tmp/claude-501/-Users-maisylloyd/174e1e2f-7c3a-4176-b66b-661910b9e2dd/scratchpad/maths_tracker` | 2026-10-05 19:53 |
