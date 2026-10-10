@@ -300,3 +300,4 @@ Automatically tracked by Claude Code whenever a new project directory is created
 | `maths_tracker` | `/private/tmp/claude-501/-Users-maisylloyd/174e1e2f-7c3a-4176-b66b-661910b9e2dd/scratchpad/maths_tracker` | 2026-10-05 19:53 |
 | `templates,storage,components,pages,styles,test}` | `src/{data,engine/templates,storage,components,pages,styles,test}` | 2026-10-10 08:19 |
 | `scripts` | `scripts` | 2026-10-10 08:19 |
+| `snapshots` | `$SP/snapshots` | 2026-10-10 11:21 |
