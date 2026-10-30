@@ -301,3 +301,4 @@ Automatically tracked by Claude Code whenever a new project directory is created
 | `templates,storage,components,pages,styles,test}` | `src/{data,engine/templates,storage,components,pages,styles,test}` | 2026-10-10 08:19 |
 | `scripts` | `scripts` | 2026-10-10 08:19 |
 | `snapshots` | `$SP/snapshots` | 2026-10-10 11:21 |
+| `HoneywoodDiscipline` | `~/HoneywoodDiscipline` | 2026-10-30 19:28 |
