@@ -303,3 +303,4 @@ Automatically tracked by Claude Code whenever a new project directory is created
 | `snapshots` | `$SP/snapshots` | 2026-10-10 11:21 |
 | `HoneywoodDiscipline` | `~/HoneywoodDiscipline` | 2026-10-30 19:28 |
 | `luau_dl` | `luau_dl` | 2026-10-30 22:22 |
+| `HoneywoodDiscipline` | `~/HoneywoodDiscipline` | 2026-11-01 13:54 |
