@@ -305,3 +305,4 @@ Automatically tracked by Claude Code whenever a new project directory is created
 | `luau_dl` | `luau_dl` | 2026-10-30 22:22 |
 | `HoneywoodDiscipline` | `~/HoneywoodDiscipline` | 2026-11-01 13:54 |
 | `NameTags` | `~/HoneywoodDiscipline/NameTags` | 2026-11-01 14:31 |
+| `campus` | `~/HoneywoodDiscipline/NameTags/campus` | 2026-11-01 20:22 |
