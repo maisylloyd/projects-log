@@ -308,3 +308,4 @@ Automatically tracked by Claude Code whenever a new project directory is created
 | `campus` | `~/HoneywoodDiscipline/NameTags/campus` | 2026-11-01 20:22 |
 | `prev` | `/private/tmp/claude-501/-Users-maisylloyd/c77f92c7-1a6a-4733-9e96-90b32b428adc/scratchpad/prev` | 2026-11-01 21:11 |
 | `pack` | `/private/tmp/claude-501/-Users-maisylloyd/c77f92c7-1a6a-4733-9e96-90b32b428adc/scratchpad/pack` | 2026-11-01 21:19 |
+| `plan` | `/private/tmp/claude-501/-Users-maisylloyd/c77f92c7-1a6a-4733-9e96-90b32b428adc/scratchpad/plan` | 2026-11-01 21:42 |
