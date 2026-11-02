@@ -310,3 +310,4 @@ Automatically tracked by Claude Code whenever a new project directory is created
 | `pack` | `/private/tmp/claude-501/-Users-maisylloyd/c77f92c7-1a6a-4733-9e96-90b32b428adc/scratchpad/pack` | 2026-11-01 21:19 |
 | `plan` | `/private/tmp/claude-501/-Users-maisylloyd/c77f92c7-1a6a-4733-9e96-90b32b428adc/scratchpad/plan` | 2026-11-01 21:42 |
 | `scratchpad` | `/private/tmp/claude-501/-Users-maisylloyd/f2eda5d2-ac4f-4749-8155-d8b17ee06bf5/scratchpad` | 2026-11-02 21:19 |
+| `$d` | `$d` | 2026-11-02 22:37 |
