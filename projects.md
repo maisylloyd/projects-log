@@ -315,3 +315,4 @@ Automatically tracked by Claude Code whenever a new project directory is created
 | `$S` | `$S` | 2026-11-14 23:18 |
 | `WonderlandPhotos` | `/Users/maisylloyd/Pictures/WonderlandPhotos` | 2026-11-15 10:14 |
 | `fw` | `/Users/maisylloyd/Pictures/WonderlandPhotos/fw` | 2026-11-15 12:44 |
+| `fw2` | `/Users/maisylloyd/Pictures/WonderlandPhotos/fw2` | 2026-11-15 13:16 |
