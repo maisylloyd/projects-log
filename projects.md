@@ -314,3 +314,4 @@ Automatically tracked by Claude Code whenever a new project directory is created
 | `HoneywoodDiscipline` | `~/HoneywoodDiscipline` | 2026-11-13 19:54 |
 | `$S` | `$S` | 2026-11-14 23:18 |
 | `WonderlandPhotos` | `/Users/maisylloyd/Pictures/WonderlandPhotos` | 2026-11-15 10:14 |
+| `fw` | `/Users/maisylloyd/Pictures/WonderlandPhotos/fw` | 2026-11-15 12:44 |
