@@ -317,3 +317,4 @@ Automatically tracked by Claude Code whenever a new project directory is created
 | `fw` | `/Users/maisylloyd/Pictures/WonderlandPhotos/fw` | 2026-11-15 12:44 |
 | `fw2` | `/Users/maisylloyd/Pictures/WonderlandPhotos/fw2` | 2026-11-15 13:16 |
 | `parts` | `parts` | 2026-11-17 16:27 |
+| `lp` | `/private/tmp/claude-501/-Users-maisylloyd/4ff6cd66-e5dc-49ce-b4fe-fa63f9d381f1/scratchpad/lp` | 2026-11-17 16:42 |
