@@ -319,3 +319,4 @@ Automatically tracked by Claude Code whenever a new project directory is created
 | `parts` | `parts` | 2026-11-17 16:27 |
 | `lp` | `/private/tmp/claude-501/-Users-maisylloyd/4ff6cd66-e5dc-49ce-b4fe-fa63f9d381f1/scratchpad/lp` | 2026-11-17 16:42 |
 | `CrownWillowPub` | `~/CrownWillowPub` | 2026-11-18 19:06 |
+| `thumbs` | `/private/tmp/claude-501/-Users-maisylloyd/0fb06712-5639-458e-8310-5ff45bbe0994/scratchpad/thumbs` | 2026-11-19 18:39 |
