@@ -321,3 +321,4 @@ Automatically tracked by Claude Code whenever a new project directory is created
 | `CrownWillowPub` | `~/CrownWillowPub` | 2026-11-18 19:06 |
 | `thumbs` | `/private/tmp/claude-501/-Users-maisylloyd/0fb06712-5639-458e-8310-5ff45bbe0994/scratchpad/thumbs` | 2026-11-19 18:39 |
 | `sheet` | `sheet` | 2026-11-19 18:41 |
+| `ThemePreviews` | `~/ChristmasMarket/ThemePreviews` | 2026-11-21 12:27 |
